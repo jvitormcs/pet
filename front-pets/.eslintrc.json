@@ -1,0 +1,7 @@
+{
+  "extends": "next/core-web-vitals", 
+  "rules": {
+    "eslint-plugin-import/no-anonymous-default-export": "off",
+    "react/display-name": "off"
+  }
+}
